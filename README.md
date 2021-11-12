@@ -38,5 +38,5 @@ Once we have cleaned up our data a bit, we move the data exploration section. In
 4. Fish has Omega 3 fatty acids which are good for the brain. Accordingly, do "Married PhD candidates" have a significant relation with amount spent on fish? What other factors are significantly related to amount spent on fish?
 
 ## Project Status
-Project is in progress
+Project is completely done. 
 
