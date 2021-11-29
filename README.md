@@ -30,13 +30,18 @@ We start by cleaning our data. Tasks during this section include:
 - Transforming data
 - Encoding Categorical Data
 
-Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore 5 high level business questions related to our data:
+Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore 3 high level business questions related to our data:
 
 1. What factors are significantly related to the number of store purchases?
-2. Does US fare significantly better than the Rest of the World in terms of total purchases?
-3. Find relationship between Amount spent in gold products and Store Purchases
-4. Fish has Omega 3 fatty acids which are good for the brain. Accordingly, do "Married PhD candidates" have a significant relation with amount spent on fish? What other factors are significantly related to amount spent on fish?
+2. Find relationship between Amount spent in gold products and Store Purchases
+3. Fish has Omega 3 fatty acids which are good for the brain. Accordingly, do "Married PhD candidates" have a significant relation with amount spent on fish? What other factors are significantly related to amount spent on fish?
 
+After that, we move to data visualization section to answer these questions:
+1. Which marketing campaign is most successful?
+2. Which products are performing best?
+3. Which channel is being underrated? 
+4. What is the main customer that company is targetting? 
+ 
 ## Project Status
 Project is completely done. 
 
