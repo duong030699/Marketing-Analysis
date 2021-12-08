@@ -41,6 +41,8 @@ After that, we move to data visualization section to answer these questions:
 2. Which products are performing best?
 3. Which channel is being underrated? 
 4. What is the main customer that company is targetting? 
+To view Data Visualization, please open url below:
+https://public.tableau.com/views/MarketingAnalysis_16384157565430/Dashboard2?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link
  
 ## Project Status
 Project is completely done. 
